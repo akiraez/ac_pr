@@ -1,4 +1,4 @@
-https://atcoder.jp/contests/abc243/submissions/30371366
+https://atcoder.jp/contests/abc243/tasks/abc243_c
 
 n = gets.to_i
 coordinate = n.times.map { gets.split.map(&:to_i) }
