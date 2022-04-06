@@ -1,1 +1,1 @@
-# ac_pr
+# AtCoder Problemsのアウトプット
