@@ -1,1 +1,1 @@
-# AtCoder Problemsのアウトプット
+- atcoderでrubyで問いた問題を備忘録として残しています。
